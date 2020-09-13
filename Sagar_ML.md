@@ -8,19 +8,21 @@
 
 * Regression
 * Decision Trees
-* Random Forests
 * Ensmeble techniques
+* Forecasting Algorithms ( ARIMA, SARIMAX, Prophet, LSTM)
 * Clustering
 * Dimensionality Redcution
 * Support Vector Machines
-* Boosting ALgorithms
-* Bias-Variance
+* Handling Imabalance Datasets
+* Web Scraping
+* API Scraping
 * Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
+* Efficiency Improvisation ( Hyper Tuning Techniques)
 
 # Deep Learning:-
 
 * Backpropagation
-* ConvNet
+* ANN, CNN, RNN and LSTM
 * Batch Normalization
 * Transfer Learning
 * Hyperparameter tuning
