@@ -1,44 +1,44 @@
 # Tools:-
 
-Python Programming
-MySQL
-MongoDB
+* Python Programming
+* MySQL
+* MongoDB
 
 # Machine Learning:-
 
-Regression
-Decision Trees
-Random Forests
-Ensmeble techniques
-Clustering
-Dimensionality Redcution
-Support Vector Machines
-Boosting ALgorithms
-Bias-Variance
-Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
+* Regression
+* Decision Trees
+* Random Forests
+* Ensmeble techniques
+* Clustering
+* Dimensionality Redcution
+* Support Vector Machines
+* Boosting ALgorithms
+* Bias-Variance
+* Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
 
 # Deep Learning:-
 
-Backpropagation
-ConvNet
-Batch Normalization
-Transfer Learning
-Hyperparameter tuning
-Data Augmentation
-Optimization (adam, RMS, RMSProp)
-Frameworks ( Keras, Tensorflow, Pytorch)
+* Backpropagation
+* ConvNet
+* Batch Normalization
+* Transfer Learning
+* Hyperparameter tuning
+* Data Augmentation
+* Optimization (adam, RMS, RMSProp)
+* Frameworks ( Keras, Tensorflow, Pytorch)
 
 # Natural Language Preprocessing:-
 
-Bag of Words (CountVectorizer)
-Term Frequency–Inverse Document Frequency (TfidfVectorizer)
-Word2Vec
-Glove
+* Bag of Words (CountVectorizer)
+* Term Frequency–Inverse Document Frequency (TfidfVectorizer)
+* Word2Vec
+* Glove
 
 # Deployement Platforms:-
 
-AWS
-Heroku
-Docker
+* AWS
+* Heroku
+* Docker
 
 
