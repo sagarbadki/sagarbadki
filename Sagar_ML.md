@@ -7,10 +7,11 @@
 # Machine Learning:-
 
 * Regression
+* Classification
+* Clustering
 * Decision Trees
 * Ensmeble techniques
 * Forecasting Algorithms ( ARIMA, SARIMAX, Prophet, LSTM)
-* Clustering
 * Dimensionality Redcution
 * Support Vector Machines
 * Handling Imabalance Datasets
@@ -23,7 +24,7 @@
 
 * Backpropagation
 * ANN, CNN, RNN and LSTM
-* Batch Normalization
+* Regularization
 * Transfer Learning
 * Hyperparameter tuning
 * Data Augmentation
