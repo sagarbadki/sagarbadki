@@ -1,6 +1,6 @@
 # Sagar Badki
 
-[![linkedin](https://github.com/sagarbadki/sagarbadki/blob/master/linkedin-logo.png)](www.linkedin.com/in/sagar-badki)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/sagarbadki/sagarbadki/blob/master/mail.png)](mailto:sagarbadki@gmail.com)
+[![linkedin](https://github.com/sagarbadki/sagarbadki/blob/master/linkedin-logo.png)](https://www.linkedin.com/in/sagar-badki/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/sagarbadki/sagarbadki/blob/master/mail.png)](mailto:sagarbadki@gmail.com)
 
 
 
