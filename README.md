@@ -6,22 +6,22 @@
 
 ### Hi there 👋
 
-Being a Data whizz and having exceptional knowledge in data gathering, data preprocessing, data visualization, feature engineering, and model evaluation make me curious to solve real-life problems by Predictive Analysis and AI. my main focus to derive great business outcomes through a data-driven approach.  
+Engineer with proven experience in artificial intelligence application development and object-oriented programming. Determined to add value to your team as a continuous learner. Excellent analytical problem solving and research aptitude using a strategic methodology and requires minimal supervision. Expertise in areas of implementing, testing and optimizing machine learning models, collecting and improving quality of data, and finding useful insights.  
 
 
-🔭 I’m currently working on Chatbots and NLP Projects
+🔭 I’m currently working on Selenium and other scraping tools
 
-🌱 I’m currently learning Sequence to Sequence models, Agile Methodology and Cloud Architecture.
+🌱 I’m currently learning Big Data and Cloud Architecture.
 
-👯 I’m looking to collaborate on any **ML** and **AI** Project
+👯 I’m looking to collaborate on any **ML**, **AI**, **Big Data** Project
 
-🤔 I’m looking for help with Chatbots and NLP Projects
+🤔 I’m looking for help with Big Data Projects
 
-💬 You can ask me about ML, Statistics, Data Analysis, Computer Vision, Data Annotations, Big Data(Pyspark), AWS and NLP as well.
+💬 You can ask me about ML, Statistics, Data Analysis, Computer Vision, Data Annotations, Big Data(Pyspark), AWS, GCP and NLP as well.
 
 📫 How to reach me: You can contact me via sagarbadki@gmail.com
 
-😄 Pronouns: Machine Learning Engineer
+😄 Pronouns: Data Analyst/Machine Learning Engineer/Data Engineer
 
 Fun fact: I get bored when work is not challenging
 
